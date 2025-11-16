@@ -10,6 +10,24 @@ You can see it for yourself at [glooby.greenbit.club](https://glooby.greenbit.cl
 - Custom google font
 
 But sadly it is not responsive for devices with a **width screen size <= 768px**, so everytime someone wants to access it via a device that is not compatible, they will get a warning.
+# Setup
+In order to be able to run this website, you'll need to achieve the following criterias:
+- Use a website that supports WebGL - 3D Canvas graphics. A complete list of browser support can be found [here](https://caniuse.com/webgl)
+- Recommended node version: 20+
+
+To run the website locally, just clone this project and then run the following:
+```bash
+cd project-dir
+```
+```bash
+npm install # install the npm packages
+```
+After installation, to run the web server execute the following:
+```bash
+npm run dev
+```
+And your website will be available at ``http://localhost:5173/``! (or your selected port)
+
 # Website preview
 
 ![websiteIMG](./public/website.png)
