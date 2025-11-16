@@ -1,5 +1,5 @@
 # Glooby - A three.js website
-Hello there! This is a project i made to learn more about three.js :) It's not very complex but it taught me a lot about how models are rendered on a website using OpenGL.
+Hello there! This is a project i made to learn more about three.js :) It's not very complex but it taught me a lot about how models are rendered on a website using WebGL.
 
 You can see it for yourself at [glooby.greenbit.club](https://glooby.greenbit.club)!
 
