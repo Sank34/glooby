@@ -11,7 +11,7 @@ You can see it for yourself at [glooby.greenbit.club](https://glooby.greenbit.cl
 
 But sadly it is not responsive for devices with a **width screen size <= 768px**, so everytime someone wants to access it via a device that is not compatible, they will get a warning.
 # Setup
-In order to be able to run this website, you'll need to achieve the following criterias:
+In order to be able to run this website, you'll need to meet the following criterias:
 - Use a website that supports WebGL - 3D Canvas graphics. A complete list of browser support can be found [here](https://caniuse.com/webgl)
 - Recommended node version: 20+
 
