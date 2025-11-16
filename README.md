@@ -34,3 +34,5 @@ And your website will be available at ``http://localhost:5173/``! (or your selec
 
 ---
 Feel free to explore the code and play around with it!
+
+*This website was inspired from this [tutorial](https://www.youtube.com/watch?v=_OwJV2xL8M8)*
